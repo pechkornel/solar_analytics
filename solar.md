@@ -52,12 +52,12 @@ My first step was to correlate the daily energy production with the environmenta
 ---
 ## KPIs
 *KPI1: Daily conversion efficiency
-This KPI tracks the daily conversion rate of sunlight into electricity, providing a granular view of how effectively the panels are performing under varying environmental conditions. Normalizing output against total daily radiation allows us to pinpoint exactly how much energy is being captured relative to the total sunlight available each day.
+*This KPI tracks the daily conversion rate of sunlight into electricity, providing a granular view of how effectively the panels are performing under varying environmental conditions. Normalizing output against total daily radiation allows us to pinpoint exactly how much energy is being captured relative to the total sunlight available each day.
 
 <img width="1791" height="992" alt="Screenshot 2026-01-13 at 12 19 03" src="https://github.com/user-attachments/assets/7e7437d1-b2fc-4cb2-b458-a78a85fe92bd" />
  
 *KPI2: Weather-Based Performance Benchmarking
-This KPI categorizes performance based on environmental conditions, providing a direct comparison of how different weather types affect both raw output and conversion efficiency.
+*This KPI categorizes performance based on environmental conditions, providing a direct comparison of how different weather types affect both raw output and conversion efficiency.
 <img width="1942" height="881" alt="Screenshot 2026-01-13 at 12 20 59" src="https://github.com/user-attachments/assets/64120c0d-1f01-42d1-aadc-0c2c811999db" />
 
 
