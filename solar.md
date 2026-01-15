@@ -74,4 +74,5 @@ My first step was to correlate the daily energy production with the environmenta
 ## Overview
 * Project Overview
 This project focuses on identifying and quantifying performance bottlenecks in a solar power installation located in Kerala, India. In tropical climates, solar production faces a unique challenge: while sunlight is abundant, the extreme heat often causes photovoltaic cells to lose efficiency, leading to a phenomenon known as the "Efficiency Paradox."
-
+---
+* Note: Generative AI (Gemini) was utilized as a technical thought partner for documentation and SQL optimization.
